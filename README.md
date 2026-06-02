@@ -1,4 +1,4 @@
-<img width="3840" height="1920" alt="A5 _ Every surface_ one invoice" src="https://github.com/user-attachments/assets/d0a8dfe9-7bc6-41f3-bdd7-7ed3522fde52" />
+<img width="3840" height="1920" alt="A5 _ Every surface_ one invoice (1)" src="https://github.com/user-attachments/assets/45e8cabd-9e60-4b61-aa8b-7bd405c60018" />
 
 # Scribo
 > Free, AI-native e-invoicing — every surface, one invoice.
