@@ -1,4 +1,4 @@
-<img width="3840" height="1410" alt="A1 _ Web app _ slim" src="https://github.com/user-attachments/assets/e59bf5a7-721e-49f2-84c8-9d191e6d3894" />
+<img width="3840" height="1920" alt="A5 _ Every surface_ one invoice" src="https://github.com/user-attachments/assets/d0a8dfe9-7bc6-41f3-bdd7-7ed3522fde52" />
 
 # Scribo — free, AI-native e-invoicing
 
