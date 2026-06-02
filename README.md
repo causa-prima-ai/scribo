@@ -23,7 +23,7 @@ Just ask your AI agent about Scribo: it ships as an MCP server, a CLI, and a Cla
 
 ## Pick a surface
 
-Every surface talks to the same backend and produces the same compliant invoices — pick the one that fits how you work.
+Every surface talks to the same backend and produces the same compliant invoices — pick the one that fits how you and your agents work.
 
 | Surface | Best for | What you get |
 |---|---|---|
