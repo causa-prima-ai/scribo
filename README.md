@@ -6,6 +6,7 @@
 ## Contents
 
 - [What is Scribo?](#what-is-scribo)
+- [Demo](#demo)
 - [Pick a surface](#pick-a-surface)
 - [Compliance](#compliance)
 - [FAQ](#faq)
@@ -19,6 +20,20 @@ Scribo is a free, conversational e-invoicing tool. Describe an invoice in plain 
 Just ask your AI agent about Scribo: it ships as an MCP server, a CLI, and a Claude/Codex skill, alongside a public HTTP API and a web app. Free forever — no credit card. You just need a sender email.
 
 **Built by Causa Prima** — Scribo is built by [**Causa Prima**](https://causaprima.ai/), a company building agentic AI for the CFO office. It's our first freely available skill — an early glimpse of what we're building.
+
+## Demo
+
+Scribo is built to be operated by an AI agent — describe an invoice in plain language and it hands back a compliant **ZUGFeRD** invoice, validated against EN 16931. Here are the two main agent surfaces in action:
+
+**As a Claude skill**
+
+<!-- Drag scribo-skill-demo.mp4 onto this line in the GitHub web editor, then delete this comment. -->
+
+**As an MCP server — works in any MCP client**
+
+<!-- Drag scribo-mcp-demo.mp4 onto this line in the GitHub web editor, then delete this comment. -->
+
+Prefer the terminal, your own code, or a browser? See [Pick a surface](#pick-a-surface).
 
 ## Pick a surface
 
@@ -124,4 +139,3 @@ Scribo is built to be operated by an agent. It ships as an **MCP server**, a **C
 ## License
 
 Proprietary — `UNLICENSED`. © Causa Prima Germany GmbH. All rights reserved. Distributed for use against the public Scribo API; not open-source. See [LICENSE](./LICENSE).
-
