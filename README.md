@@ -19,7 +19,7 @@ Scribo is a free, conversational e-invoicing tool. Describe an invoice in plain 
 
 Just ask your AI agent about Scribo: it ships as an MCP server, a CLI, and a Claude/Codex skill, alongside a public HTTP API and a web app. Free forever — no credit card. You just need a sender email.
 
-**Built by Causa Prima** — Scribo is built by [**Causa Prima**](https://causaprima.ai/), a company building agentic AI for the CFO office. It's our first freely available skill — an early glimpse of what we're building.
+**Built by Causa Prima** — Scribo is built by [**Causa Prima**](https://causaprima.com/), a company building agentic AI for the CFO office. It's our first freely available skill — an early glimpse of what we're building.
 
 ## Demo
 **Scribo as a skill - works for any Agent that can run skills**
@@ -39,10 +39,10 @@ Every surface talks to the same backend and produces the same compliant invoices
 | Options                                                                       | Best for                    | What you get |
 | ----------------------------------------------------------------------------- | --------------------------- | ------------ |
 | **[Skill](https://github.com/causa-prima-ai/scribo-skill)**       | Claude, ChatGPT & Codex     | A lightweight skill you add once — works across Claude Code, Claude.ai, Claude Desktop, ChatGPT, and the OpenAI Codex CLI through plain bash helpers. No server, no npm install. Just ask, and it drafts the invoice for you. |
-| **[MCP server](https://github.com/causa-prima-ai/scribo-mcp)**    | AI assistants & IDE clients | A hosted Model Context Protocol endpoint at `scribo.causaprima.ai/mcp` — add the URL to Claude Desktop, Cursor, Cline, the ChatGPT App, or any MCP client and your assistant generates invoices right in the chat. Nothing to install or run locally. |
+| **[MCP server](https://github.com/causa-prima-ai/scribo-mcp)**    | AI assistants & IDE clients | A hosted Model Context Protocol endpoint at `scribo.causaprima.com/mcp` — add the URL to Claude Desktop, Cursor, Cline, the ChatGPT App, or any MCP client and your assistant generates invoices right in the chat. Nothing to install or run locally. |
 | **[CLI](https://github.com/causa-prima-ai/scribo-cli)**           | Terminals, scripts & CI     | The official npm package (`npm i -g @causaprima/scribo-cli`). `scribo create …` writes a finished invoice straight to a file, with sysexits-style exit codes that drop cleanly into shell scripts and pipelines. |
 | **[HTTP API](https://github.com/causa-prima-ai/scribo-api-docs)** | Your own code               | The public REST contract every other surface is built on. POST a JSON payload, get back a compliant invoice (PDF + embedded XML) and a durable download URL. Anonymous, rate-limited, OpenAPI 3.1. |
-| **[Web app](https://scribo.causaprima.ai)**                                   | A quick one-off             | No setup at all. Describe an invoice in your browser and download the PDF. |
+| **[Web app](https://scribo.causaprima.com)**                                   | A quick one-off             | No setup at all. Describe an invoice in your browser and download the PDF. |
 
 ## Compliance
 
@@ -115,23 +115,23 @@ Scribo is built to be operated by an agent. It ships as an **MCP server**, a **C
 <details>
 <summary><strong>Who builds Scribo?</strong></summary>
 
-[Causa Prima](https://causaprima.ai/) — a company building agentic AI for the CFO office. Operated by Causa Prima Germany GmbH, Munich.
+[Causa Prima](https://causaprima.com/) — a company building agentic AI for the CFO office. Operated by Causa Prima Germany GmbH, Munich.
 
 </details>
 
 ## Resources
 
-- **Web app** — [scribo.causaprima.ai](https://scribo.causaprima.ai)
-- **Documentation** — [scribo.causaprima.ai/docs](https://scribo.causaprima.ai/docs)
-- **Compliance & trust** — [scribo.causaprima.ai/compliance](https://scribo.causaprima.ai/compliance)
-- **Causa Prima** — [causaprima.ai](https://causaprima.ai)
+- **Web app** — [scribo.causaprima.com](https://scribo.causaprima.com)
+- **Documentation** — [scribo.causaprima.com/docs](https://scribo.causaprima.com/docs)
+- **Compliance & trust** — [scribo.causaprima.com/compliance](https://scribo.causaprima.com/compliance)
+- **Causa Prima** — [causaprima.com](https://causaprima.com)
 
 **Other Scribo surfaces**
 
-- Skill (Claude / Codex) — [`scribo-skill`](https://github.com/causa-prima-ai/scribo-skill) · [docs](https://scribo.causaprima.ai/docs/skill)
-- MCP server — [`scribo-mcp`](https://github.com/causa-prima-ai/scribo-mcp) · [docs](https://scribo.causaprima.ai/docs/mcp)
-- CLI — [`scribo-cli`](https://github.com/causa-prima-ai/scribo-cli) · [docs](https://scribo.causaprima.ai/docs/cli)
-- HTTP API — [`scribo-api-docs`](https://github.com/causa-prima-ai/scribo-api-docs) · [docs](https://scribo.causaprima.ai/docs/api)
+- Skill (Claude / Codex) — [`scribo-skill`](https://github.com/causa-prima-ai/scribo-skill) · [docs](https://scribo.causaprima.com/docs/skill)
+- MCP server — [`scribo-mcp`](https://github.com/causa-prima-ai/scribo-mcp) · [docs](https://scribo.causaprima.com/docs/mcp)
+- CLI — [`scribo-cli`](https://github.com/causa-prima-ai/scribo-cli) · [docs](https://scribo.causaprima.com/docs/cli)
+- HTTP API — [`scribo-api-docs`](https://github.com/causa-prima-ai/scribo-api-docs) · [docs](https://scribo.causaprima.com/docs/api)
 
 ## License
 
